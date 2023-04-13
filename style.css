@@ -85,7 +85,7 @@ section{
 
 .animated-img {
     animation-name: spin;
-    animation-duration: 30s;
+    animation-duration: 10s;
     animation-iteration-count:infinite;
     }
     
@@ -172,7 +172,7 @@ span{
 }
 
 .about-img img{
-    width: 35vw;
+    width: 20vw;
 }
 
 .heading{
